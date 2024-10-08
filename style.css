@@ -1,13 +1,14 @@
 body {
     margin:20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .card{
-    margin-left:auto;
-    margin-right:auto;
+    margin:20px auto;
     width: 400px;
     display: flex;
     justify-content: space-around;
+    text-align: center;
     padding: 20px;
     border-bottom: 5px solid #d8cefe;
     background-color: #ddebf8;
@@ -16,5 +17,6 @@ body {
 
 .logo-img {
     width: 150px;
+    margin: 10px;
 }
 
